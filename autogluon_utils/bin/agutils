@@ -1,0 +1,80 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""CLI driver"""
+
+import os
+import posixpath
+import sys
+from subprocess import check_call
+import argparse
+import logging
+import fire
+
+from autogluon_utils.configs.kaggle.common import competition_s3_path
+from autogluon_utils.kaggle_tools.kaggle_utils import load_leaderboard
+from autogluon_utils.utils.config import *
+from autogluon_utils.benchmarking.kaggle.fetch_datasets import fetch
+from autogluon_utils.benchmarking.kaggle.evaluate_results import run as evaluation_run
+from autogluon_utils.benchmarking.kaggle.predictors.predictors import GluonAutoMLPredictor
+from autogluon_utils.configs.kaggle.kaggle_competitions import KAGGLE_COMPETITIONS
+import autogluon_utils.configs.kaggle.constants as constants
+from autogluon_utils.utils import s3_exists_file
+
+
+def script_name() -> str:
+    """:returns: script name with leading paths removed"""
+    return os.path.split(sys.argv[0])[1]
+
+
+def config_logging():
+    import time
+    logging.getLogger().setLevel(logging.INFO)
+    logging.basicConfig(format='{}: %(asctime)sZ %(levelname)s %(message)s'.format(script_name()))
+    logging.Formatter.converter = time.gmtime
+
+
+class Main:
+    def configure(self):
+        """Change the global configuration parameters such as s3 bucket etc."""
+        logging.info("Looking for config file in %s", config_file())
+        config = load_config()
+        res = input(f"S3 path for datasets [{config.get('s3_path')}]: ")
+        if res:
+            config['s3_path'] = res
+        save_config(config)
+
+    def fetch(self):
+        """Fetch datasets"""
+        fetch()
+
+    def eval(self, competition: str, fitting_profile: str=constants.PROFILE_FAST, predictor: str='autogluon_predictor'):
+        """run eval on the given competition"""
+        evaluation_run(competition, fitting_profile, predictor)
+
+
+    def list_datasets(self):
+        for comp in KAGGLE_COMPETITIONS:
+            print(comp[constants.NAME])
+
+
+    def push_leaderboards_to_s3(self):
+        logging.info("Push leaderboards to S3")
+        for comp in KAGGLE_COMPETITIONS:
+            competition = comp[constants.NAME]
+            s3_path = posixpath.join('s3://', competition_s3_path(competition), 'leaderboard', f'{competition}_lb.parquet.gz')
+            if not s3_exists_file(s3_path):
+                df = load_leaderboard(competition)
+                logging.info("Competition: '%s' s3_path: '%s'", competition, s3_path)
+                df.to_parquet(s3_path, compression='gzip')
+
+
+
+def main():
+    config_logging()
+    fire.Fire(Main)
+    return 0
+
+
+if __name__ == '__main__':
+    sys.exit(main())
+

@@ -1,0 +1,391 @@
+acc,auc,duration,fold,framework,id,info,logloss,mode,models,models_ensemble,params,predict_duration,result,seed,tag,task,utc,version
+0.875128,0.931155,4227.2,0,GoogleAutoMLTables_benchmark,openml.org/t/7592,,,local,-1.0,-1.0,,136.077,0.931155,1456856717,stable,adult,2020-01-27T02:30:14,0.0.1
+,,2.5,1,GoogleAutoMLTables_benchmark,openml.org/t/7592,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,1456856718,stable,adult,2020-01-27T02:30:17,0.0.1
+,,2.5,2,GoogleAutoMLTables_benchmark,openml.org/t/7592,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,1456856719,stable,adult,2020-01-27T02:30:19,0.0.1
+,,2.5,3,GoogleAutoMLTables_benchmark,openml.org/t/7592,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,1456856720,stable,adult,2020-01-27T02:30:22,0.0.1
+,,2.5,4,GoogleAutoMLTables_benchmark,openml.org/t/7592,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,1456856721,stable,adult,2020-01-27T02:30:25,0.0.1
+,,2.5,5,GoogleAutoMLTables_benchmark,openml.org/t/7592,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,1456856722,stable,adult,2020-01-27T02:30:27,0.0.1
+,,2.5,6,GoogleAutoMLTables_benchmark,openml.org/t/7592,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,1456856723,stable,adult,2020-01-27T02:30:30,0.0.1
+,,2.5,7,GoogleAutoMLTables_benchmark,openml.org/t/7592,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,1456856724,stable,adult,2020-01-27T02:30:32,0.0.1
+,,2.5,8,GoogleAutoMLTables_benchmark,openml.org/t/7592,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,1456856725,stable,adult,2020-01-27T02:30:35,0.0.1
+,,2.5,9,GoogleAutoMLTables_benchmark,openml.org/t/7592,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,1456856726,stable,adult,2020-01-27T02:30:37,0.0.1
+0.672426,0.728065,4838.0,0,GoogleAutoMLTables_benchmark,openml.org/t/189354,,,local,-1.0,-1.0,,168.08700000000005,0.728065,2117374657,stable,Airlines,2020-01-27T10:48:25,0.0.1
+,,18.2,1,GoogleAutoMLTables_benchmark,openml.org/t/189354,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,2117374658,stable,Airlines,2020-01-27T10:48:43,0.0.1
+,,18.0,2,GoogleAutoMLTables_benchmark,openml.org/t/189354,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,2117374659,stable,Airlines,2020-01-27T10:49:01,0.0.1
+,,17.8,3,GoogleAutoMLTables_benchmark,openml.org/t/189354,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,2117374660,stable,Airlines,2020-01-27T10:49:19,0.0.1
+,,18.1,4,GoogleAutoMLTables_benchmark,openml.org/t/189354,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,2117374661,stable,Airlines,2020-01-27T10:49:37,0.0.1
+,,18.2,5,GoogleAutoMLTables_benchmark,openml.org/t/189354,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,2117374662,stable,Airlines,2020-01-27T10:49:55,0.0.1
+,,17.9,6,GoogleAutoMLTables_benchmark,openml.org/t/189354,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,2117374663,stable,Airlines,2020-01-27T10:50:13,0.0.1
+,,17.7,7,GoogleAutoMLTables_benchmark,openml.org/t/189354,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,2117374664,stable,Airlines,2020-01-27T10:50:31,0.0.1
+,,17.9,8,GoogleAutoMLTables_benchmark,openml.org/t/189354,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,2117374665,stable,Airlines,2020-01-27T10:50:49,0.0.1
+,,18.0,9,GoogleAutoMLTables_benchmark,openml.org/t/189354,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,2117374666,stable,Airlines,2020-01-27T10:51:07,0.0.1
+0.689234,0.757916,5247.1,0,GoogleAutoMLTables_benchmark,openml.org/t/189356,,,local,-1.0,-1.0,,149.39,0.757916,1030357815,stable,Albert,2020-01-27T22:33:43,0.0.1
+,,215.5,1,GoogleAutoMLTables_benchmark,openml.org/t/189356,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,1030357816,stable,Albert,2020-01-27T22:37:19,0.0.1
+,,215.7,2,GoogleAutoMLTables_benchmark,openml.org/t/189356,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,1030357817,stable,Albert,2020-01-27T22:40:55,0.0.1
+,,215.7,3,GoogleAutoMLTables_benchmark,openml.org/t/189356,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,1030357818,stable,Albert,2020-01-27T22:44:30,0.0.1
+,,215.7,4,GoogleAutoMLTables_benchmark,openml.org/t/189356,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,1030357819,stable,Albert,2020-01-27T22:48:06,0.0.1
+,,216.3,5,GoogleAutoMLTables_benchmark,openml.org/t/189356,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,1030357820,stable,Albert,2020-01-27T22:51:42,0.0.1
+,,216.2,6,GoogleAutoMLTables_benchmark,openml.org/t/189356,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,1030357821,stable,Albert,2020-01-27T22:55:19,0.0.1
+,,217.0,7,GoogleAutoMLTables_benchmark,openml.org/t/189356,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,1030357822,stable,Albert,2020-01-27T22:58:56,0.0.1
+,,217.5,8,GoogleAutoMLTables_benchmark,openml.org/t/189356,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,1030357823,stable,Albert,2020-01-27T23:02:33,0.0.1
+,,218.1,9,GoogleAutoMLTables_benchmark,openml.org/t/189356,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,1030357824,stable,Albert,2020-01-27T23:06:11,0.0.1
+0.945987,0.8704799999999999,4868.1,0,GoogleAutoMLTables_benchmark,openml.org/t/34539,,,local,-1.0,-1.0,,140.534,0.8704799999999999,2463229497,stable,Amazon_employee_access,2020-01-27T02:40:54,0.0.1
+,,1.2,1,GoogleAutoMLTables_benchmark,openml.org/t/34539,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,2463229498,stable,Amazon_employee_access,2020-01-27T02:40:55,0.0.1
+,,1.3,2,GoogleAutoMLTables_benchmark,openml.org/t/34539,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,2463229499,stable,Amazon_employee_access,2020-01-27T02:40:56,0.0.1
+,,1.3,3,GoogleAutoMLTables_benchmark,openml.org/t/34539,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,2463229500,stable,Amazon_employee_access,2020-01-27T02:40:57,0.0.1
+,,1.3,4,GoogleAutoMLTables_benchmark,openml.org/t/34539,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,2463229501,stable,Amazon_employee_access,2020-01-27T02:40:59,0.0.1
+,,1.1,5,GoogleAutoMLTables_benchmark,openml.org/t/34539,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,2463229502,stable,Amazon_employee_access,2020-01-27T02:41:00,0.0.1
+,,1.3,6,GoogleAutoMLTables_benchmark,openml.org/t/34539,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,2463229503,stable,Amazon_employee_access,2020-01-27T02:41:01,0.0.1
+,,1.3,7,GoogleAutoMLTables_benchmark,openml.org/t/34539,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,2463229504,stable,Amazon_employee_access,2020-01-27T02:41:02,0.0.1
+,,1.1,8,GoogleAutoMLTables_benchmark,openml.org/t/34539,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,2463229505,stable,Amazon_employee_access,2020-01-27T02:41:04,0.0.1
+,,1.3,9,GoogleAutoMLTables_benchmark,openml.org/t/34539,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,2463229506,stable,Amazon_employee_access,2020-01-27T02:41:05,0.0.1
+0.994868,0.994112,5595.5,0,GoogleAutoMLTables_benchmark,openml.org/t/168868,,,local,-1.0,-1.0,,262.99,0.994112,1534599080,stable,APSFailure,2020-01-27T02:53:50,0.0.1
+,,25.2,1,GoogleAutoMLTables_benchmark,openml.org/t/168868,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,1534599081,stable,APSFailure,2020-01-27T02:54:15,0.0.1
+,,25.1,2,GoogleAutoMLTables_benchmark,openml.org/t/168868,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,1534599082,stable,APSFailure,2020-01-27T02:54:40,0.0.1
+,,24.9,3,GoogleAutoMLTables_benchmark,openml.org/t/168868,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,1534599083,stable,APSFailure,2020-01-27T02:55:05,0.0.1
+,,25.1,4,GoogleAutoMLTables_benchmark,openml.org/t/168868,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,1534599084,stable,APSFailure,2020-01-27T02:55:30,0.0.1
+,,25.1,5,GoogleAutoMLTables_benchmark,openml.org/t/168868,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,1534599085,stable,APSFailure,2020-01-27T02:55:55,0.0.1
+,,24.8,6,GoogleAutoMLTables_benchmark,openml.org/t/168868,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,1534599086,stable,APSFailure,2020-01-27T02:56:20,0.0.1
+,,25.1,7,GoogleAutoMLTables_benchmark,openml.org/t/168868,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,1534599087,stable,APSFailure,2020-01-27T02:56:45,0.0.1
+,,24.8,8,GoogleAutoMLTables_benchmark,openml.org/t/168868,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,1534599088,stable,APSFailure,2020-01-27T02:57:10,0.0.1
+,,24.9,9,GoogleAutoMLTables_benchmark,openml.org/t/168868,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,1534599089,stable,APSFailure,2020-01-27T02:57:35,0.0.1
+,,20.4,0,GoogleAutoMLTables_benchmark,openml.org/t/146818,ValueError: GCP AutoML tables can only be trained on datasets with >= 1000 rows,,local,,,,,,1090125242,stable,Australian,2020-01-26T19:19:15,0.0.1
+,,0.0,1,GoogleAutoMLTables_benchmark,openml.org/t/146818,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,1090125243,stable,Australian,2020-01-26T19:19:15,0.0.1
+,,0.0,2,GoogleAutoMLTables_benchmark,openml.org/t/146818,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,1090125244,stable,Australian,2020-01-26T19:19:15,0.0.1
+,,0.0,3,GoogleAutoMLTables_benchmark,openml.org/t/146818,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,1090125245,stable,Australian,2020-01-26T19:19:15,0.0.1
+,,0.0,4,GoogleAutoMLTables_benchmark,openml.org/t/146818,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,1090125246,stable,Australian,2020-01-26T19:19:16,0.0.1
+,,0.0,5,GoogleAutoMLTables_benchmark,openml.org/t/146818,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,1090125247,stable,Australian,2020-01-26T19:19:16,0.0.1
+,,0.0,6,GoogleAutoMLTables_benchmark,openml.org/t/146818,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,1090125248,stable,Australian,2020-01-26T19:19:16,0.0.1
+,,0.0,7,GoogleAutoMLTables_benchmark,openml.org/t/146818,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,1090125249,stable,Australian,2020-01-26T19:19:16,0.0.1
+,,0.0,8,GoogleAutoMLTables_benchmark,openml.org/t/146818,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,1090125250,stable,Australian,2020-01-26T19:19:16,0.0.1
+,,0.0,9,GoogleAutoMLTables_benchmark,openml.org/t/146818,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,1090125251,stable,Australian,2020-01-26T19:19:16,0.0.1
+0.909111,0.938284,4935.8,0,GoogleAutoMLTables_benchmark,openml.org/t/14965,,,local,-1.0,-1.0,,152.326,0.938284,158828231,stable,bank-marketing,2020-01-27T02:42:03,0.0.1
+,,1.9,1,GoogleAutoMLTables_benchmark,openml.org/t/14965,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,158828232,stable,bank-marketing,2020-01-27T02:42:05,0.0.1
+,,1.9,2,GoogleAutoMLTables_benchmark,openml.org/t/14965,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,158828233,stable,bank-marketing,2020-01-27T02:42:07,0.0.1
+,,1.9,3,GoogleAutoMLTables_benchmark,openml.org/t/14965,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,158828234,stable,bank-marketing,2020-01-27T02:42:09,0.0.1
+,,1.9,4,GoogleAutoMLTables_benchmark,openml.org/t/14965,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,158828235,stable,bank-marketing,2020-01-27T02:42:10,0.0.1
+,,1.9,5,GoogleAutoMLTables_benchmark,openml.org/t/14965,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,158828236,stable,bank-marketing,2020-01-27T02:42:12,0.0.1
+,,1.9,6,GoogleAutoMLTables_benchmark,openml.org/t/14965,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,158828237,stable,bank-marketing,2020-01-27T02:42:14,0.0.1
+,,1.9,7,GoogleAutoMLTables_benchmark,openml.org/t/14965,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,158828238,stable,bank-marketing,2020-01-27T02:42:16,0.0.1
+,,1.9,8,GoogleAutoMLTables_benchmark,openml.org/t/14965,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,158828239,stable,bank-marketing,2020-01-27T02:42:18,0.0.1
+,,1.9,9,GoogleAutoMLTables_benchmark,openml.org/t/14965,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,158828240,stable,bank-marketing,2020-01-27T02:42:20,0.0.1
+,,20.4,0,GoogleAutoMLTables_benchmark,openml.org/t/10101,ValueError: GCP AutoML tables can only be trained on datasets with >= 1000 rows,,local,,,,,,700498981,stable,blood-transfusion,2020-01-26T19:19:15,0.0.1
+,,0.0,1,GoogleAutoMLTables_benchmark,openml.org/t/10101,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,700498982,stable,blood-transfusion,2020-01-26T19:19:15,0.0.1
+,,0.0,2,GoogleAutoMLTables_benchmark,openml.org/t/10101,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,700498983,stable,blood-transfusion,2020-01-26T19:19:15,0.0.1
+,,0.0,3,GoogleAutoMLTables_benchmark,openml.org/t/10101,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,700498984,stable,blood-transfusion,2020-01-26T19:19:15,0.0.1
+,,0.0,4,GoogleAutoMLTables_benchmark,openml.org/t/10101,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,700498985,stable,blood-transfusion,2020-01-26T19:19:15,0.0.1
+,,0.0,5,GoogleAutoMLTables_benchmark,openml.org/t/10101,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,700498986,stable,blood-transfusion,2020-01-26T19:19:15,0.0.1
+,,0.0,6,GoogleAutoMLTables_benchmark,openml.org/t/10101,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,700498987,stable,blood-transfusion,2020-01-26T19:19:15,0.0.1
+,,0.0,7,GoogleAutoMLTables_benchmark,openml.org/t/10101,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,700498988,stable,blood-transfusion,2020-01-26T19:19:15,0.0.1
+,,0.0,8,GoogleAutoMLTables_benchmark,openml.org/t/10101,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,700498989,stable,blood-transfusion,2020-01-26T19:19:15,0.0.1
+,,0.0,9,GoogleAutoMLTables_benchmark,openml.org/t/10101,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,700498990,stable,blood-transfusion,2020-01-26T19:19:15,0.0.1
+1.0,,3777.6,0,GoogleAutoMLTables_benchmark,openml.org/t/146821,,0.000716802,local,-1.0,-1.0,,295.517,0.000716802,3803834984,stable,car,2020-01-26T20:22:13,0.0.1
+,,0.1,1,GoogleAutoMLTables_benchmark,openml.org/t/146821,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,3803834985,stable,car,2020-01-26T20:22:13,0.0.1
+,,0.1,2,GoogleAutoMLTables_benchmark,openml.org/t/146821,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,3803834986,stable,car,2020-01-26T20:22:13,0.0.1
+,,0.1,3,GoogleAutoMLTables_benchmark,openml.org/t/146821,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,3803834987,stable,car,2020-01-26T20:22:13,0.0.1
+,,0.1,4,GoogleAutoMLTables_benchmark,openml.org/t/146821,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,3803834988,stable,car,2020-01-26T20:22:13,0.0.1
+,,0.1,5,GoogleAutoMLTables_benchmark,openml.org/t/146821,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,3803834989,stable,car,2020-01-26T20:22:14,0.0.1
+,,0.1,6,GoogleAutoMLTables_benchmark,openml.org/t/146821,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,3803834990,stable,car,2020-01-26T20:22:14,0.0.1
+,,0.1,7,GoogleAutoMLTables_benchmark,openml.org/t/146821,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,3803834991,stable,car,2020-01-26T20:22:14,0.0.1
+,,0.1,8,GoogleAutoMLTables_benchmark,openml.org/t/146821,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,3803834992,stable,car,2020-01-26T20:22:14,0.0.1
+,,0.1,9,GoogleAutoMLTables_benchmark,openml.org/t/146821,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,3803834993,stable,car,2020-01-26T20:22:14,0.0.1
+,,95.9,0,GoogleAutoMLTables_benchmark,openml.org/t/168908,GoogleAPICallError: None Too many columns: 1638. Maximum number is: 1000,,local,,,,,,3168368631,stable,christine,2020-01-26T19:20:31,0.0.1
+,,25.0,1,GoogleAutoMLTables_benchmark,openml.org/t/168908,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,3168368632,stable,christine,2020-01-26T19:20:56,0.0.1
+,,24.7,2,GoogleAutoMLTables_benchmark,openml.org/t/168908,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,3168368633,stable,christine,2020-01-26T19:21:21,0.0.1
+,,24.7,3,GoogleAutoMLTables_benchmark,openml.org/t/168908,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,3168368634,stable,christine,2020-01-26T19:21:45,0.0.1
+,,24.6,4,GoogleAutoMLTables_benchmark,openml.org/t/168908,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,3168368635,stable,christine,2020-01-26T19:22:10,0.0.1
+,,24.9,5,GoogleAutoMLTables_benchmark,openml.org/t/168908,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,3168368636,stable,christine,2020-01-26T19:22:35,0.0.1
+,,24.6,6,GoogleAutoMLTables_benchmark,openml.org/t/168908,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,3168368637,stable,christine,2020-01-26T19:22:59,0.0.1
+,,24.7,7,GoogleAutoMLTables_benchmark,openml.org/t/168908,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,3168368638,stable,christine,2020-01-26T19:23:24,0.0.1
+,,24.7,8,GoogleAutoMLTables_benchmark,openml.org/t/168908,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,3168368639,stable,christine,2020-01-26T19:23:49,0.0.1
+,,24.4,9,GoogleAutoMLTables_benchmark,openml.org/t/168908,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,3168368640,stable,christine,2020-01-26T19:24:13,0.0.1
+,,22.0,0,GoogleAutoMLTables_benchmark,openml.org/t/9981,ValueError: GCP AutoML tables can only be trained on datasets with >= 1000 rows,,local,,,,,,4122209684,stable,cnae-9,2020-01-26T19:19:17,0.0.1
+,,1.3,1,GoogleAutoMLTables_benchmark,openml.org/t/9981,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,4122209685,stable,cnae-9,2020-01-26T19:19:18,0.0.1
+,,1.3,2,GoogleAutoMLTables_benchmark,openml.org/t/9981,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,4122209686,stable,cnae-9,2020-01-26T19:19:20,0.0.1
+,,1.3,3,GoogleAutoMLTables_benchmark,openml.org/t/9981,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,4122209687,stable,cnae-9,2020-01-26T19:19:21,0.0.1
+,,1.3,4,GoogleAutoMLTables_benchmark,openml.org/t/9981,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,4122209688,stable,cnae-9,2020-01-26T19:19:22,0.0.1
+,,1.2,5,GoogleAutoMLTables_benchmark,openml.org/t/9981,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,4122209689,stable,cnae-9,2020-01-26T19:19:23,0.0.1
+,,1.3,6,GoogleAutoMLTables_benchmark,openml.org/t/9981,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,4122209690,stable,cnae-9,2020-01-26T19:19:25,0.0.1
+,,1.3,7,GoogleAutoMLTables_benchmark,openml.org/t/9981,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,4122209691,stable,cnae-9,2020-01-26T19:19:26,0.0.1
+,,1.3,8,GoogleAutoMLTables_benchmark,openml.org/t/9981,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,4122209692,stable,cnae-9,2020-01-26T19:19:27,0.0.1
+,,1.2,9,GoogleAutoMLTables_benchmark,openml.org/t/9981,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,4122209693,stable,cnae-9,2020-01-26T19:19:28,0.0.1
+0.880699,,5189.5,0,GoogleAutoMLTables_benchmark,openml.org/t/146195,,0.309489,local,-1.0,-1.0,,314.649,0.309489,185663085,stable,connect-4,2020-01-27T05:10:50,0.0.1
+,,4.9,1,GoogleAutoMLTables_benchmark,openml.org/t/146195,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,185663086,stable,connect-4,2020-01-27T05:10:55,0.0.1
+,,5.0,2,GoogleAutoMLTables_benchmark,openml.org/t/146195,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,185663087,stable,connect-4,2020-01-27T05:11:00,0.0.1
+,,4.8,3,GoogleAutoMLTables_benchmark,openml.org/t/146195,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,185663088,stable,connect-4,2020-01-27T05:11:05,0.0.1
+,,5.0,4,GoogleAutoMLTables_benchmark,openml.org/t/146195,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,185663089,stable,connect-4,2020-01-27T05:11:10,0.0.1
+,,4.8,5,GoogleAutoMLTables_benchmark,openml.org/t/146195,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,185663090,stable,connect-4,2020-01-27T05:11:14,0.0.1
+,,4.8,6,GoogleAutoMLTables_benchmark,openml.org/t/146195,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,185663091,stable,connect-4,2020-01-27T05:11:19,0.0.1
+,,4.9,7,GoogleAutoMLTables_benchmark,openml.org/t/146195,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,185663092,stable,connect-4,2020-01-27T05:11:24,0.0.1
+,,4.8,8,GoogleAutoMLTables_benchmark,openml.org/t/146195,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,185663093,stable,connect-4,2020-01-27T05:11:29,0.0.1
+,,5.0,9,GoogleAutoMLTables_benchmark,openml.org/t/146195,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,185663094,stable,connect-4,2020-01-27T05:11:34,0.0.1
+0.93329,,5551.8,0,GoogleAutoMLTables_benchmark,openml.org/t/7593,,0.197809,local,-1.0,-1.0,,319.148,0.197809,3708363734,stable,Covertype,2020-01-27T11:01:26,0.0.1
+,,52.4,1,GoogleAutoMLTables_benchmark,openml.org/t/7593,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,3708363735,stable,Covertype,2020-01-27T11:02:19,0.0.1
+,,52.2,2,GoogleAutoMLTables_benchmark,openml.org/t/7593,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,3708363736,stable,Covertype,2020-01-27T11:03:11,0.0.1
+,,52.4,3,GoogleAutoMLTables_benchmark,openml.org/t/7593,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,3708363737,stable,Covertype,2020-01-27T11:04:03,0.0.1
+,,52.5,4,GoogleAutoMLTables_benchmark,openml.org/t/7593,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,3708363738,stable,Covertype,2020-01-27T11:04:56,0.0.1
+,,52.4,5,GoogleAutoMLTables_benchmark,openml.org/t/7593,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,3708363739,stable,Covertype,2020-01-27T11:05:48,0.0.1
+,,52.6,6,GoogleAutoMLTables_benchmark,openml.org/t/7593,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,3708363740,stable,Covertype,2020-01-27T11:06:41,0.0.1
+,,54.1,7,GoogleAutoMLTables_benchmark,openml.org/t/7593,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,3708363741,stable,Covertype,2020-01-27T11:07:35,0.0.1
+,,52.7,8,GoogleAutoMLTables_benchmark,openml.org/t/7593,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,3708363742,stable,Covertype,2020-01-27T11:08:28,0.0.1
+,,52.4,9,GoogleAutoMLTables_benchmark,openml.org/t/7593,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,3708363743,stable,Covertype,2020-01-27T11:09:20,0.0.1
+,,19.0,0,GoogleAutoMLTables_benchmark,openml.org/t/31,ValueError: GCP AutoML tables can only be trained on datasets with >= 1000 rows,,local,,,,,,2452074617,stable,credit-g,2020-01-26T19:54:58,0.0.1
+,,0.1,1,GoogleAutoMLTables_benchmark,openml.org/t/31,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,2452074618,stable,credit-g,2020-01-26T19:54:58,0.0.1
+,,0.1,2,GoogleAutoMLTables_benchmark,openml.org/t/31,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,2452074619,stable,credit-g,2020-01-26T19:54:58,0.0.1
+,,0.1,3,GoogleAutoMLTables_benchmark,openml.org/t/31,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,2452074620,stable,credit-g,2020-01-26T19:54:58,0.0.1
+,,0.1,4,GoogleAutoMLTables_benchmark,openml.org/t/31,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,2452074621,stable,credit-g,2020-01-26T19:54:58,0.0.1
+,,0.1,5,GoogleAutoMLTables_benchmark,openml.org/t/31,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,2452074622,stable,credit-g,2020-01-26T19:54:59,0.0.1
+,,0.1,6,GoogleAutoMLTables_benchmark,openml.org/t/31,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,2452074623,stable,credit-g,2020-01-26T19:54:59,0.0.1
+,,0.1,7,GoogleAutoMLTables_benchmark,openml.org/t/31,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,2452074624,stable,credit-g,2020-01-26T19:54:59,0.0.1
+,,0.1,8,GoogleAutoMLTables_benchmark,openml.org/t/31,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,2452074625,stable,credit-g,2020-01-26T19:54:59,0.0.1
+,,0.1,9,GoogleAutoMLTables_benchmark,openml.org/t/31,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,2452074626,stable,credit-g,2020-01-26T19:54:59,0.0.1
+,,207.2,0,GoogleAutoMLTables_benchmark,openml.org/t/168909,GoogleAPICallError: None Too many columns: 2002. Maximum number is: 1000,,local,,,,,,1144516600,stable,dilbert,2020-01-26T19:58:06,0.0.1
+,,63.0,1,GoogleAutoMLTables_benchmark,openml.org/t/168909,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,1144516601,stable,dilbert,2020-01-26T19:59:09,0.0.1
+,,62.9,2,GoogleAutoMLTables_benchmark,openml.org/t/168909,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,1144516602,stable,dilbert,2020-01-26T20:00:12,0.0.1
+,,63.2,3,GoogleAutoMLTables_benchmark,openml.org/t/168909,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,1144516603,stable,dilbert,2020-01-26T20:01:15,0.0.1
+,,62.8,4,GoogleAutoMLTables_benchmark,openml.org/t/168909,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,1144516604,stable,dilbert,2020-01-26T20:02:18,0.0.1
+,,62.6,5,GoogleAutoMLTables_benchmark,openml.org/t/168909,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,1144516605,stable,dilbert,2020-01-26T20:03:20,0.0.1
+,,62.8,6,GoogleAutoMLTables_benchmark,openml.org/t/168909,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,1144516606,stable,dilbert,2020-01-26T20:04:23,0.0.1
+,,62.4,7,GoogleAutoMLTables_benchmark,openml.org/t/168909,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,1144516607,stable,dilbert,2020-01-26T20:05:26,0.0.1
+,,62.9,8,GoogleAutoMLTables_benchmark,openml.org/t/168909,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,1144516608,stable,dilbert,2020-01-26T20:06:29,0.0.1
+,,62.7,9,GoogleAutoMLTables_benchmark,openml.org/t/168909,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,1144516609,stable,dilbert,2020-01-26T20:07:31,0.0.1
+,,9523.1,0,GoogleAutoMLTables_benchmark,openml.org/t/189355,AssertionError: GCP AutoML did not predict with all classes! GCP returned 40 of 355 classes!,,local,,,,,,1196254146,stable,Dionis,2020-01-27T12:04:55,0.0.1
+,,70.8,1,GoogleAutoMLTables_benchmark,openml.org/t/189355,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,1196254147,stable,Dionis,2020-01-27T12:06:05,0.0.1
+,,70.6,2,GoogleAutoMLTables_benchmark,openml.org/t/189355,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,1196254148,stable,Dionis,2020-01-27T12:07:16,0.0.1
+,,70.6,3,GoogleAutoMLTables_benchmark,openml.org/t/189355,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,1196254149,stable,Dionis,2020-01-27T12:08:27,0.0.1
+,,70.5,4,GoogleAutoMLTables_benchmark,openml.org/t/189355,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,1196254150,stable,Dionis,2020-01-27T12:09:37,0.0.1
+,,70.3,5,GoogleAutoMLTables_benchmark,openml.org/t/189355,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,1196254151,stable,Dionis,2020-01-27T12:10:47,0.0.1
+,,70.4,6,GoogleAutoMLTables_benchmark,openml.org/t/189355,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,1196254152,stable,Dionis,2020-01-27T12:11:58,0.0.1
+,,70.5,7,GoogleAutoMLTables_benchmark,openml.org/t/189355,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,1196254153,stable,Dionis,2020-01-27T12:13:08,0.0.1
+,,70.1,8,GoogleAutoMLTables_benchmark,openml.org/t/189355,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,1196254154,stable,Dionis,2020-01-27T12:14:18,0.0.1
+,,70.8,9,GoogleAutoMLTables_benchmark,openml.org/t/189355,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,1196254155,stable,Dionis,2020-01-27T12:15:29,0.0.1
+0.705097,,8539.7,0,GoogleAutoMLTables_benchmark,openml.org/t/168910,,0.785388,local,-1.0,-1.0,,563.226,0.785388,3975780872,stable,fabert,2020-01-26T22:17:41,0.0.1
+,,17.0,1,GoogleAutoMLTables_benchmark,openml.org/t/168910,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,3975780873,stable,fabert,2020-01-26T22:17:58,0.0.1
+,,16.9,2,GoogleAutoMLTables_benchmark,openml.org/t/168910,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,3975780874,stable,fabert,2020-01-26T22:18:14,0.0.1
+,,16.6,3,GoogleAutoMLTables_benchmark,openml.org/t/168910,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,3975780875,stable,fabert,2020-01-26T22:18:31,0.0.1
+,,16.8,4,GoogleAutoMLTables_benchmark,openml.org/t/168910,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,3975780876,stable,fabert,2020-01-26T22:18:48,0.0.1
+,,16.7,5,GoogleAutoMLTables_benchmark,openml.org/t/168910,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,3975780877,stable,fabert,2020-01-26T22:19:05,0.0.1
+,,16.7,6,GoogleAutoMLTables_benchmark,openml.org/t/168910,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,3975780878,stable,fabert,2020-01-26T22:19:21,0.0.1
+,,16.6,7,GoogleAutoMLTables_benchmark,openml.org/t/168910,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,3975780879,stable,fabert,2020-01-26T22:19:38,0.0.1
+,,16.7,8,GoogleAutoMLTables_benchmark,openml.org/t/168910,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,3975780880,stable,fabert,2020-01-26T22:19:55,0.0.1
+,,16.7,9,GoogleAutoMLTables_benchmark,openml.org/t/168910,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,3975780881,stable,fabert,2020-01-26T22:20:11,0.0.1
+0.899857,,13942.0,0,GoogleAutoMLTables_benchmark,openml.org/t/146825,,0.273228,local,-1.0,-1.0,,845.7660000000002,0.273228,3318699127,stable,Fashion-MNIST,2020-01-27T07:39:34,0.0.1
+,,78.7,1,GoogleAutoMLTables_benchmark,openml.org/t/146825,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,3318699128,stable,Fashion-MNIST,2020-01-27T07:40:53,0.0.1
+,,78.3,2,GoogleAutoMLTables_benchmark,openml.org/t/146825,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,3318699129,stable,Fashion-MNIST,2020-01-27T07:42:11,0.0.1
+,,78.5,3,GoogleAutoMLTables_benchmark,openml.org/t/146825,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,3318699130,stable,Fashion-MNIST,2020-01-27T07:43:30,0.0.1
+,,78.7,4,GoogleAutoMLTables_benchmark,openml.org/t/146825,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,3318699131,stable,Fashion-MNIST,2020-01-27T07:44:48,0.0.1
+,,79.0,5,GoogleAutoMLTables_benchmark,openml.org/t/146825,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,3318699132,stable,Fashion-MNIST,2020-01-27T07:46:07,0.0.1
+,,79.0,6,GoogleAutoMLTables_benchmark,openml.org/t/146825,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,3318699133,stable,Fashion-MNIST,2020-01-27T07:47:26,0.0.1
+,,79.4,7,GoogleAutoMLTables_benchmark,openml.org/t/146825,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,3318699134,stable,Fashion-MNIST,2020-01-27T07:48:46,0.0.1
+,,79.6,8,GoogleAutoMLTables_benchmark,openml.org/t/146825,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,3318699135,stable,Fashion-MNIST,2020-01-27T07:50:05,0.0.1
+,,78.6,9,GoogleAutoMLTables_benchmark,openml.org/t/146825,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,3318699136,stable,Fashion-MNIST,2020-01-27T07:51:24,0.0.1
+,,1171.0,0,GoogleAutoMLTables_benchmark,openml.org/t/168337,GoogleAPICallError: None Too many columns: 4298. Maximum number is: 1000,,local,,,,,,3617504725,stable,guiellermo,2020-01-27T04:03:18,0.0.1
+,,462.7,1,GoogleAutoMLTables_benchmark,openml.org/t/168337,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,3617504726,stable,guiellermo,2020-01-27T04:11:01,0.0.1
+,,443.5,2,GoogleAutoMLTables_benchmark,openml.org/t/168337,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,3617504727,stable,guiellermo,2020-01-27T04:18:24,0.0.1
+,,433.4,3,GoogleAutoMLTables_benchmark,openml.org/t/168337,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,3617504728,stable,guiellermo,2020-01-27T04:25:38,0.0.1
+,,433.4,4,GoogleAutoMLTables_benchmark,openml.org/t/168337,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,3617504729,stable,guiellermo,2020-01-27T04:32:51,0.0.1
+,,437.0,5,GoogleAutoMLTables_benchmark,openml.org/t/168337,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,3617504730,stable,guiellermo,2020-01-27T04:40:08,0.0.1
+,,437.0,6,GoogleAutoMLTables_benchmark,openml.org/t/168337,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,3617504731,stable,guiellermo,2020-01-27T04:47:25,0.0.1
+,,432.4,7,GoogleAutoMLTables_benchmark,openml.org/t/168337,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,3617504732,stable,guiellermo,2020-01-27T04:54:38,0.0.1
+,,427.8,8,GoogleAutoMLTables_benchmark,openml.org/t/168337,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,3617504733,stable,guiellermo,2020-01-27T05:01:45,0.0.1
+,,425.8,9,GoogleAutoMLTables_benchmark,openml.org/t/168337,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,3617504734,stable,guiellermo,2020-01-27T05:08:51,0.0.1
+,,5212.0,0,GoogleAutoMLTables_benchmark,openml.org/t/168329,AssertionError: GCP AutoML did not predict with all classes! GCP returned 40 of 100 classes!,,local,,,,,,2972286970,stable,Helena,2020-01-27T05:10:39,0.0.1
+,,5.9,1,GoogleAutoMLTables_benchmark,openml.org/t/168329,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,2972286971,stable,Helena,2020-01-27T05:10:45,0.0.1
+,,6.0,2,GoogleAutoMLTables_benchmark,openml.org/t/168329,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,2972286972,stable,Helena,2020-01-27T05:10:51,0.0.1
+,,5.9,3,GoogleAutoMLTables_benchmark,openml.org/t/168329,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,2972286973,stable,Helena,2020-01-27T05:10:57,0.0.1
+,,5.9,4,GoogleAutoMLTables_benchmark,openml.org/t/168329,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,2972286974,stable,Helena,2020-01-27T05:11:03,0.0.1
+,,6.0,5,GoogleAutoMLTables_benchmark,openml.org/t/168329,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,2972286975,stable,Helena,2020-01-27T05:11:09,0.0.1
+,,5.9,6,GoogleAutoMLTables_benchmark,openml.org/t/168329,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,2972286976,stable,Helena,2020-01-27T05:11:15,0.0.1
+,,6.0,7,GoogleAutoMLTables_benchmark,openml.org/t/168329,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,2972286977,stable,Helena,2020-01-27T05:11:21,0.0.1
+,,5.9,8,GoogleAutoMLTables_benchmark,openml.org/t/168329,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,2972286978,stable,Helena,2020-01-27T05:11:27,0.0.1
+,,5.9,9,GoogleAutoMLTables_benchmark,openml.org/t/168329,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,2972286979,stable,Helena,2020-01-27T05:11:33,0.0.1
+0.74105,0.8205389999999999,5137.4,0,GoogleAutoMLTables_benchmark,openml.org/t/146606,,,local,-1.0,-1.0,,270.791,0.8205389999999999,1930080008,stable,higgs,2020-01-27T05:10:06,0.0.1
+,,2.3,1,GoogleAutoMLTables_benchmark,openml.org/t/146606,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,1930080009,stable,higgs,2020-01-27T05:10:08,0.0.1
+,,2.3,2,GoogleAutoMLTables_benchmark,openml.org/t/146606,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,1930080010,stable,higgs,2020-01-27T05:10:10,0.0.1
+,,2.3,3,GoogleAutoMLTables_benchmark,openml.org/t/146606,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,1930080011,stable,higgs,2020-01-27T05:10:13,0.0.1
+,,2.3,4,GoogleAutoMLTables_benchmark,openml.org/t/146606,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,1930080012,stable,higgs,2020-01-27T05:10:15,0.0.1
+,,2.5,5,GoogleAutoMLTables_benchmark,openml.org/t/146606,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,1930080013,stable,higgs,2020-01-27T05:10:18,0.0.1
+,,2.3,6,GoogleAutoMLTables_benchmark,openml.org/t/146606,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,1930080014,stable,higgs,2020-01-27T05:10:20,0.0.1
+,,2.2,7,GoogleAutoMLTables_benchmark,openml.org/t/146606,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,1930080015,stable,higgs,2020-01-27T05:10:22,0.0.1
+,,2.3,8,GoogleAutoMLTables_benchmark,openml.org/t/146606,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,1930080016,stable,higgs,2020-01-27T05:10:24,0.0.1
+,,2.5,9,GoogleAutoMLTables_benchmark,openml.org/t/146606,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,1930080017,stable,higgs,2020-01-27T05:10:27,0.0.1
+0.722355,,4764.5,0,GoogleAutoMLTables_benchmark,openml.org/t/168330,,0.676392,local,-1.0,-1.0,,146.12,0.676392,3883997534,stable,Jannis,2020-01-27T07:01:47,0.0.1
+,,13.5,1,GoogleAutoMLTables_benchmark,openml.org/t/168330,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,3883997535,stable,Jannis,2020-01-27T07:02:01,0.0.1
+,,13.3,2,GoogleAutoMLTables_benchmark,openml.org/t/168330,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,3883997536,stable,Jannis,2020-01-27T07:02:14,0.0.1
+,,13.4,3,GoogleAutoMLTables_benchmark,openml.org/t/168330,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,3883997537,stable,Jannis,2020-01-27T07:02:27,0.0.1
+,,13.4,4,GoogleAutoMLTables_benchmark,openml.org/t/168330,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,3883997538,stable,Jannis,2020-01-27T07:02:41,0.0.1
+,,13.4,5,GoogleAutoMLTables_benchmark,openml.org/t/168330,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,3883997539,stable,Jannis,2020-01-27T07:02:54,0.0.1
+,,13.3,6,GoogleAutoMLTables_benchmark,openml.org/t/168330,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,3883997540,stable,Jannis,2020-01-27T07:03:07,0.0.1
+,,13.3,7,GoogleAutoMLTables_benchmark,openml.org/t/168330,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,3883997541,stable,Jannis,2020-01-27T07:03:21,0.0.1
+,,13.5,8,GoogleAutoMLTables_benchmark,openml.org/t/168330,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,3883997542,stable,Jannis,2020-01-27T07:03:34,0.0.1
+,,13.5,9,GoogleAutoMLTables_benchmark,openml.org/t/168330,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,3883997543,stable,Jannis,2020-01-27T07:03:48,0.0.1
+0.8327760000000001,0.865101,5392.1,0,GoogleAutoMLTables_benchmark,openml.org/t/168911,,,local,-1.0,-1.0,,304.4840000000001,0.865101,650126414,stable,jasmine,2020-01-26T21:24:52,0.0.1
+,,2.5,1,GoogleAutoMLTables_benchmark,openml.org/t/168911,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,650126415,stable,jasmine,2020-01-26T21:24:54,0.0.1
+,,2.5,2,GoogleAutoMLTables_benchmark,openml.org/t/168911,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,650126416,stable,jasmine,2020-01-26T21:24:57,0.0.1
+,,2.5,3,GoogleAutoMLTables_benchmark,openml.org/t/168911,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,650126417,stable,jasmine,2020-01-26T21:24:59,0.0.1
+,,2.6,4,GoogleAutoMLTables_benchmark,openml.org/t/168911,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,650126418,stable,jasmine,2020-01-26T21:25:02,0.0.1
+,,2.5,5,GoogleAutoMLTables_benchmark,openml.org/t/168911,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,650126419,stable,jasmine,2020-01-26T21:25:04,0.0.1
+,,2.5,6,GoogleAutoMLTables_benchmark,openml.org/t/168911,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,650126420,stable,jasmine,2020-01-26T21:25:07,0.0.1
+,,2.5,7,GoogleAutoMLTables_benchmark,openml.org/t/168911,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,650126421,stable,jasmine,2020-01-26T21:25:09,0.0.1
+,,2.5,8,GoogleAutoMLTables_benchmark,openml.org/t/168911,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,650126422,stable,jasmine,2020-01-26T21:25:12,0.0.1
+,,2.5,9,GoogleAutoMLTables_benchmark,openml.org/t/168911,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,650126423,stable,jasmine,2020-01-26T21:25:14,0.0.1
+0.998661,,4616.3,0,GoogleAutoMLTables_benchmark,openml.org/t/167119,,0.00770216,local,-1.0,-1.0,,166.482,0.00770216,2073271575,stable,jungle_chess_2pcs_raw_endgame_complete,2020-01-27T06:58:58,0.0.1
+,,1.0,1,GoogleAutoMLTables_benchmark,openml.org/t/167119,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,2073271576,stable,jungle_chess_2pcs_raw_endgame_complete,2020-01-27T06:58:59,0.0.1
+,,1.0,2,GoogleAutoMLTables_benchmark,openml.org/t/167119,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,2073271577,stable,jungle_chess_2pcs_raw_endgame_complete,2020-01-27T06:59:00,0.0.1
+,,1.0,3,GoogleAutoMLTables_benchmark,openml.org/t/167119,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,2073271578,stable,jungle_chess_2pcs_raw_endgame_complete,2020-01-27T06:59:01,0.0.1
+,,1.0,4,GoogleAutoMLTables_benchmark,openml.org/t/167119,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,2073271579,stable,jungle_chess_2pcs_raw_endgame_complete,2020-01-27T06:59:02,0.0.1
+,,1.0,5,GoogleAutoMLTables_benchmark,openml.org/t/167119,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,2073271580,stable,jungle_chess_2pcs_raw_endgame_complete,2020-01-27T06:59:03,0.0.1
+,,1.0,6,GoogleAutoMLTables_benchmark,openml.org/t/167119,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,2073271581,stable,jungle_chess_2pcs_raw_endgame_complete,2020-01-27T06:59:04,0.0.1
+,,1.0,7,GoogleAutoMLTables_benchmark,openml.org/t/167119,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,2073271582,stable,jungle_chess_2pcs_raw_endgame_complete,2020-01-27T06:59:05,0.0.1
+,,1.0,8,GoogleAutoMLTables_benchmark,openml.org/t/167119,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,2073271583,stable,jungle_chess_2pcs_raw_endgame_complete,2020-01-27T06:59:06,0.0.1
+,,0.9,9,GoogleAutoMLTables_benchmark,openml.org/t/167119,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,2073271584,stable,jungle_chess_2pcs_raw_endgame_complete,2020-01-27T06:59:07,0.0.1
+0.8720379999999999,0.8337120000000001,4429.2,0,GoogleAutoMLTables_benchmark,openml.org/t/3917,,,local,-1.0,-1.0,,179.905,0.8337120000000001,3308070894,stable,kc1,2020-01-26T21:08:47,0.0.1
+,,0.1,1,GoogleAutoMLTables_benchmark,openml.org/t/3917,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,3308070895,stable,kc1,2020-01-26T21:08:47,0.0.1
+,,0.1,2,GoogleAutoMLTables_benchmark,openml.org/t/3917,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,3308070896,stable,kc1,2020-01-26T21:08:47,0.0.1
+,,0.1,3,GoogleAutoMLTables_benchmark,openml.org/t/3917,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,3308070897,stable,kc1,2020-01-26T21:08:47,0.0.1
+,,0.1,4,GoogleAutoMLTables_benchmark,openml.org/t/3917,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,3308070898,stable,kc1,2020-01-26T21:08:48,0.0.1
+,,0.1,5,GoogleAutoMLTables_benchmark,openml.org/t/3917,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,3308070899,stable,kc1,2020-01-26T21:08:48,0.0.1
+,,0.1,6,GoogleAutoMLTables_benchmark,openml.org/t/3917,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,3308070900,stable,kc1,2020-01-26T21:08:48,0.0.1
+,,0.1,7,GoogleAutoMLTables_benchmark,openml.org/t/3917,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,3308070901,stable,kc1,2020-01-26T21:08:48,0.0.1
+,,0.1,8,GoogleAutoMLTables_benchmark,openml.org/t/3917,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,3308070902,stable,kc1,2020-01-26T21:08:48,0.0.1
+,,0.1,9,GoogleAutoMLTables_benchmark,openml.org/t/3917,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,3308070903,stable,kc1,2020-01-26T21:08:48,0.0.1
+0.9822,0.845303,5460.7,0,GoogleAutoMLTables_benchmark,openml.org/t/3945,,,local,-1.0,-1.0,,178.237,0.845303,1892320060,stable,KDDCup09_appetency,2020-01-27T07:13:19,0.0.1
+,,12.4,1,GoogleAutoMLTables_benchmark,openml.org/t/3945,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,1892320061,stable,KDDCup09_appetency,2020-01-27T07:13:31,0.0.1
+,,12.5,2,GoogleAutoMLTables_benchmark,openml.org/t/3945,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,1892320062,stable,KDDCup09_appetency,2020-01-27T07:13:44,0.0.1
+,,12.4,3,GoogleAutoMLTables_benchmark,openml.org/t/3945,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,1892320063,stable,KDDCup09_appetency,2020-01-27T07:13:56,0.0.1
+,,12.4,4,GoogleAutoMLTables_benchmark,openml.org/t/3945,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,1892320064,stable,KDDCup09_appetency,2020-01-27T07:14:09,0.0.1
+,,12.3,5,GoogleAutoMLTables_benchmark,openml.org/t/3945,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,1892320065,stable,KDDCup09_appetency,2020-01-27T07:14:21,0.0.1
+,,12.4,6,GoogleAutoMLTables_benchmark,openml.org/t/3945,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,1892320066,stable,KDDCup09_appetency,2020-01-27T07:14:33,0.0.1
+,,12.4,7,GoogleAutoMLTables_benchmark,openml.org/t/3945,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,1892320067,stable,KDDCup09_appetency,2020-01-27T07:14:46,0.0.1
+,,12.4,8,GoogleAutoMLTables_benchmark,openml.org/t/3945,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,1892320068,stable,KDDCup09_appetency,2020-01-27T07:14:58,0.0.1
+,,12.6,9,GoogleAutoMLTables_benchmark,openml.org/t/3945,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,1892320069,stable,KDDCup09_appetency,2020-01-27T07:15:11,0.0.1
+0.99375,0.999922,3927.7,0,GoogleAutoMLTables_benchmark,openml.org/t/3,,,local,-1.0,-1.0,,294.57,0.999922,3618909491,stable,kr-vs-kp,2020-01-26T23:34:29,0.0.1
+,,0.7,1,GoogleAutoMLTables_benchmark,openml.org/t/3,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,3618909492,stable,kr-vs-kp,2020-01-26T23:34:29,0.0.1
+,,0.7,2,GoogleAutoMLTables_benchmark,openml.org/t/3,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,3618909493,stable,kr-vs-kp,2020-01-26T23:34:30,0.0.1
+,,0.7,3,GoogleAutoMLTables_benchmark,openml.org/t/3,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,3618909494,stable,kr-vs-kp,2020-01-26T23:34:31,0.0.1
+,,0.7,4,GoogleAutoMLTables_benchmark,openml.org/t/3,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,3618909495,stable,kr-vs-kp,2020-01-26T23:34:31,0.0.1
+,,0.7,5,GoogleAutoMLTables_benchmark,openml.org/t/3,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,3618909496,stable,kr-vs-kp,2020-01-26T23:34:32,0.0.1
+,,0.7,6,GoogleAutoMLTables_benchmark,openml.org/t/3,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,3618909497,stable,kr-vs-kp,2020-01-26T23:34:33,0.0.1
+,,0.7,7,GoogleAutoMLTables_benchmark,openml.org/t/3,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,3618909498,stable,kr-vs-kp,2020-01-26T23:34:34,0.0.1
+,,0.7,8,GoogleAutoMLTables_benchmark,openml.org/t/3,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,3618909499,stable,kr-vs-kp,2020-01-26T23:34:34,0.0.1
+,,0.7,9,GoogleAutoMLTables_benchmark,openml.org/t/3,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,3618909500,stable,kr-vs-kp,2020-01-26T23:34:35,0.0.1
+0.98,,4965.2,0,GoogleAutoMLTables_benchmark,openml.org/t/12,,0.104403,local,-1.0,-1.0,,301.154,0.104403,4124464191,stable,mfeat-factors,2020-01-26T23:51:47,0.0.1
+,,0.4,1,GoogleAutoMLTables_benchmark,openml.org/t/12,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,4124464192,stable,mfeat-factors,2020-01-26T23:51:47,0.0.1
+,,0.3,2,GoogleAutoMLTables_benchmark,openml.org/t/12,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,4124464193,stable,mfeat-factors,2020-01-26T23:51:47,0.0.1
+,,0.3,3,GoogleAutoMLTables_benchmark,openml.org/t/12,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,4124464194,stable,mfeat-factors,2020-01-26T23:51:47,0.0.1
+,,0.3,4,GoogleAutoMLTables_benchmark,openml.org/t/12,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,4124464195,stable,mfeat-factors,2020-01-26T23:51:48,0.0.1
+,,0.3,5,GoogleAutoMLTables_benchmark,openml.org/t/12,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,4124464196,stable,mfeat-factors,2020-01-26T23:51:48,0.0.1
+,,0.3,6,GoogleAutoMLTables_benchmark,openml.org/t/12,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,4124464197,stable,mfeat-factors,2020-01-26T23:51:48,0.0.1
+,,0.3,7,GoogleAutoMLTables_benchmark,openml.org/t/12,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,4124464198,stable,mfeat-factors,2020-01-26T23:51:49,0.0.1
+,,0.3,8,GoogleAutoMLTables_benchmark,openml.org/t/12,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,4124464199,stable,mfeat-factors,2020-01-26T23:51:49,0.0.1
+,,0.3,9,GoogleAutoMLTables_benchmark,openml.org/t/12,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,4124464200,stable,mfeat-factors,2020-01-26T23:51:49,0.0.1
+0.944107,0.985512,5444.7,0,GoogleAutoMLTables_benchmark,openml.org/t/168335,,,local,-1.0,-1.0,,170.87,0.985512,2586544298,stable,MiniBooNE,2020-01-27T07:13:21,0.0.1
+,,16.7,1,GoogleAutoMLTables_benchmark,openml.org/t/168335,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,2586544299,stable,MiniBooNE,2020-01-27T07:13:38,0.0.1
+,,16.7,2,GoogleAutoMLTables_benchmark,openml.org/t/168335,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,2586544300,stable,MiniBooNE,2020-01-27T07:13:55,0.0.1
+,,16.6,3,GoogleAutoMLTables_benchmark,openml.org/t/168335,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,2586544301,stable,MiniBooNE,2020-01-27T07:14:11,0.0.1
+,,16.6,4,GoogleAutoMLTables_benchmark,openml.org/t/168335,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,2586544302,stable,MiniBooNE,2020-01-27T07:14:28,0.0.1
+,,16.5,5,GoogleAutoMLTables_benchmark,openml.org/t/168335,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,2586544303,stable,MiniBooNE,2020-01-27T07:14:45,0.0.1
+,,16.7,6,GoogleAutoMLTables_benchmark,openml.org/t/168335,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,2586544304,stable,MiniBooNE,2020-01-27T07:15:01,0.0.1
+,,16.7,7,GoogleAutoMLTables_benchmark,openml.org/t/168335,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,2586544305,stable,MiniBooNE,2020-01-27T07:15:18,0.0.1
+,,16.5,8,GoogleAutoMLTables_benchmark,openml.org/t/168335,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,2586544306,stable,MiniBooNE,2020-01-27T07:15:34,0.0.1
+,,16.6,9,GoogleAutoMLTables_benchmark,openml.org/t/168335,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,2586544307,stable,MiniBooNE,2020-01-27T07:15:51,0.0.1
+0.97302,0.995757,5016.7,0,GoogleAutoMLTables_benchmark,openml.org/t/9977,,,local,-1.0,-1.0,,188.197,0.995757,3499421158,stable,nomao,2020-01-27T07:05:47,0.0.1
+,,7.1,1,GoogleAutoMLTables_benchmark,openml.org/t/9977,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,3499421159,stable,nomao,2020-01-27T07:05:55,0.0.1
+,,7.1,2,GoogleAutoMLTables_benchmark,openml.org/t/9977,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,3499421160,stable,nomao,2020-01-27T07:06:02,0.0.1
+,,7.1,3,GoogleAutoMLTables_benchmark,openml.org/t/9977,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,3499421161,stable,nomao,2020-01-27T07:06:09,0.0.1
+,,6.9,4,GoogleAutoMLTables_benchmark,openml.org/t/9977,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,3499421162,stable,nomao,2020-01-27T07:06:16,0.0.1
+,,7.2,5,GoogleAutoMLTables_benchmark,openml.org/t/9977,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,3499421163,stable,nomao,2020-01-27T07:06:23,0.0.1
+,,7.2,6,GoogleAutoMLTables_benchmark,openml.org/t/9977,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,3499421164,stable,nomao,2020-01-27T07:06:30,0.0.1
+,,7.1,7,GoogleAutoMLTables_benchmark,openml.org/t/9977,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,3499421165,stable,nomao,2020-01-27T07:06:37,0.0.1
+,,6.9,8,GoogleAutoMLTables_benchmark,openml.org/t/9977,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,3499421166,stable,nomao,2020-01-27T07:06:44,0.0.1
+,,7.1,9,GoogleAutoMLTables_benchmark,openml.org/t/9977,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,3499421167,stable,nomao,2020-01-27T07:06:51,0.0.1
+0.518688,0.5245380000000001,4828.0,0,GoogleAutoMLTables_benchmark,openml.org/t/167120,,,local,-1.0,-1.0,,148.507,0.5245380000000001,1231655839,stable,numerai28.6,2020-01-27T09:13:13,0.0.1
+,,6.5,1,GoogleAutoMLTables_benchmark,openml.org/t/167120,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,1231655840,stable,numerai28.6,2020-01-27T09:13:19,0.0.1
+,,6.5,2,GoogleAutoMLTables_benchmark,openml.org/t/167120,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,1231655841,stable,numerai28.6,2020-01-27T09:13:26,0.0.1
+,,6.5,3,GoogleAutoMLTables_benchmark,openml.org/t/167120,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,1231655842,stable,numerai28.6,2020-01-27T09:13:32,0.0.1
+,,6.5,4,GoogleAutoMLTables_benchmark,openml.org/t/167120,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,1231655843,stable,numerai28.6,2020-01-27T09:13:39,0.0.1
+,,6.7,5,GoogleAutoMLTables_benchmark,openml.org/t/167120,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,1231655844,stable,numerai28.6,2020-01-27T09:13:46,0.0.1
+,,6.4,6,GoogleAutoMLTables_benchmark,openml.org/t/167120,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,1231655845,stable,numerai28.6,2020-01-27T09:13:52,0.0.1
+,,6.7,7,GoogleAutoMLTables_benchmark,openml.org/t/167120,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,1231655846,stable,numerai28.6,2020-01-27T09:13:59,0.0.1
+,,6.4,8,GoogleAutoMLTables_benchmark,openml.org/t/167120,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,1231655847,stable,numerai28.6,2020-01-27T09:14:05,0.0.1
+,,6.5,9,GoogleAutoMLTables_benchmark,openml.org/t/167120,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,1231655848,stable,numerai28.6,2020-01-27T09:14:11,0.0.1
+0.913124,0.966709,3585.0,0,GoogleAutoMLTables_benchmark,openml.org/t/9952,,,local,-1.0,-1.0,,150.735,0.966709,1696783460,stable,phoneme,2020-01-26T23:28:46,0.0.1
+,,0.1,1,GoogleAutoMLTables_benchmark,openml.org/t/9952,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,1696783461,stable,phoneme,2020-01-26T23:28:46,0.0.1
+,,0.1,2,GoogleAutoMLTables_benchmark,openml.org/t/9952,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,1696783462,stable,phoneme,2020-01-26T23:28:46,0.0.1
+,,0.1,3,GoogleAutoMLTables_benchmark,openml.org/t/9952,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,1696783463,stable,phoneme,2020-01-26T23:28:46,0.0.1
+,,0.1,4,GoogleAutoMLTables_benchmark,openml.org/t/9952,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,1696783464,stable,phoneme,2020-01-26T23:28:46,0.0.1
+,,0.1,5,GoogleAutoMLTables_benchmark,openml.org/t/9952,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,1696783465,stable,phoneme,2020-01-26T23:28:46,0.0.1
+,,0.2,6,GoogleAutoMLTables_benchmark,openml.org/t/9952,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,1696783466,stable,phoneme,2020-01-26T23:28:47,0.0.1
+,,0.1,7,GoogleAutoMLTables_benchmark,openml.org/t/9952,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,1696783467,stable,phoneme,2020-01-26T23:28:47,0.0.1
+,,0.1,8,GoogleAutoMLTables_benchmark,openml.org/t/9952,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,1696783468,stable,phoneme,2020-01-26T23:28:47,0.0.1
+,,0.1,9,GoogleAutoMLTables_benchmark,openml.org/t/9952,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,1696783469,stable,phoneme,2020-01-26T23:28:47,0.0.1
+,,1146.1,0,GoogleAutoMLTables_benchmark,openml.org/t/168338,GoogleAPICallError: None Too many columns: 4298. Maximum number is: 1000,,local,,,,,,4139315358,stable,riccardo,2020-01-27T08:11:12,0.0.1
+,,466.6,1,GoogleAutoMLTables_benchmark,openml.org/t/168338,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,4139315359,stable,riccardo,2020-01-27T08:18:59,0.0.1
+,,448.9,2,GoogleAutoMLTables_benchmark,openml.org/t/168338,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,4139315360,stable,riccardo,2020-01-27T08:26:28,0.0.1
+,,448.1,3,GoogleAutoMLTables_benchmark,openml.org/t/168338,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,4139315361,stable,riccardo,2020-01-27T08:33:56,0.0.1
+,,447.6,4,GoogleAutoMLTables_benchmark,openml.org/t/168338,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,4139315362,stable,riccardo,2020-01-27T08:41:23,0.0.1
+,,446.3,5,GoogleAutoMLTables_benchmark,openml.org/t/168338,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,4139315363,stable,riccardo,2020-01-27T08:48:49,0.0.1
+,,444.6,6,GoogleAutoMLTables_benchmark,openml.org/t/168338,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,4139315364,stable,riccardo,2020-01-27T08:56:14,0.0.1
+,,445.3,7,GoogleAutoMLTables_benchmark,openml.org/t/168338,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,4139315365,stable,riccardo,2020-01-27T09:03:39,0.0.1
+,,445.6,8,GoogleAutoMLTables_benchmark,openml.org/t/168338,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,4139315366,stable,riccardo,2020-01-27T09:11:05,0.0.1
+,,445.7,9,GoogleAutoMLTables_benchmark,openml.org/t/168338,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,4139315367,stable,riccardo,2020-01-27T09:18:31,0.0.1
+,,1273.4,0,GoogleAutoMLTables_benchmark,openml.org/t/168332,GoogleAPICallError: None Too many columns: 7202. Maximum number is: 1000,,local,,,,,,2829556997,stable,Robert,2020-01-27T08:13:19,0.0.1
+,,489.2,1,GoogleAutoMLTables_benchmark,openml.org/t/168332,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,2829556998,stable,Robert,2020-01-27T08:21:29,0.0.1
+,,465.3,2,GoogleAutoMLTables_benchmark,openml.org/t/168332,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,2829556999,stable,Robert,2020-01-27T08:29:14,0.0.1
+,,454.6,3,GoogleAutoMLTables_benchmark,openml.org/t/168332,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,2829557000,stable,Robert,2020-01-27T08:36:49,0.0.1
+,,455.7,4,GoogleAutoMLTables_benchmark,openml.org/t/168332,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,2829557001,stable,Robert,2020-01-27T08:44:24,0.0.1
+,,465.3,5,GoogleAutoMLTables_benchmark,openml.org/t/168332,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,2829557002,stable,Robert,2020-01-27T08:52:10,0.0.1
+,,472.7,6,GoogleAutoMLTables_benchmark,openml.org/t/168332,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,2829557003,stable,Robert,2020-01-27T09:00:02,0.0.1
+,,478.1,7,GoogleAutoMLTables_benchmark,openml.org/t/168332,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,2829557004,stable,Robert,2020-01-27T09:08:00,0.0.1
+,,465.2,8,GoogleAutoMLTables_benchmark,openml.org/t/168332,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,2829557005,stable,Robert,2020-01-27T09:15:46,0.0.1
+,,466.8,9,GoogleAutoMLTables_benchmark,openml.org/t/168332,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,2829557006,stable,Robert,2020-01-27T09:23:32,0.0.1
+0.991342,,4107.1,0,GoogleAutoMLTables_benchmark,openml.org/t/146822,,0.0637327,local,-1.0,-1.0,,170.533,0.0637327,2992836786,stable,segment,2020-01-26T23:37:28,0.0.1
+,,0.2,1,GoogleAutoMLTables_benchmark,openml.org/t/146822,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,2992836787,stable,segment,2020-01-26T23:37:28,0.0.1
+,,0.2,2,GoogleAutoMLTables_benchmark,openml.org/t/146822,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,2992836788,stable,segment,2020-01-26T23:37:28,0.0.1
+,,0.2,3,GoogleAutoMLTables_benchmark,openml.org/t/146822,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,2992836789,stable,segment,2020-01-26T23:37:28,0.0.1
+,,0.2,4,GoogleAutoMLTables_benchmark,openml.org/t/146822,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,2992836790,stable,segment,2020-01-26T23:37:28,0.0.1
+,,0.2,5,GoogleAutoMLTables_benchmark,openml.org/t/146822,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,2992836791,stable,segment,2020-01-26T23:37:29,0.0.1
+,,0.2,6,GoogleAutoMLTables_benchmark,openml.org/t/146822,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,2992836792,stable,segment,2020-01-26T23:37:29,0.0.1
+,,0.2,7,GoogleAutoMLTables_benchmark,openml.org/t/146822,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,2992836793,stable,segment,2020-01-26T23:37:29,0.0.1
+,,0.2,8,GoogleAutoMLTables_benchmark,openml.org/t/146822,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,2992836794,stable,segment,2020-01-26T23:37:29,0.0.1
+,,0.2,9,GoogleAutoMLTables_benchmark,openml.org/t/146822,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,2992836795,stable,segment,2020-01-26T23:37:29,0.0.1
+,,452.4,0,GoogleAutoMLTables_benchmark,openml.org/t/146212,"GoogleAPICallError: None Missing label(s) in test split: target column contains 7 distinct values, but only 6 present. There must be at least one instance of each label value in every split.",,local,,,,,,597249491,stable,Shuttle,2020-01-27T07:59:38,0.0.1
+,,1.6,1,GoogleAutoMLTables_benchmark,openml.org/t/146212,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,597249492,stable,Shuttle,2020-01-27T07:59:40,0.0.1
+,,1.5,2,GoogleAutoMLTables_benchmark,openml.org/t/146212,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,597249493,stable,Shuttle,2020-01-27T07:59:41,0.0.1
+,,1.5,3,GoogleAutoMLTables_benchmark,openml.org/t/146212,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,597249494,stable,Shuttle,2020-01-27T07:59:43,0.0.1
+,,1.5,4,GoogleAutoMLTables_benchmark,openml.org/t/146212,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,597249495,stable,Shuttle,2020-01-27T07:59:44,0.0.1
+,,1.6,5,GoogleAutoMLTables_benchmark,openml.org/t/146212,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,597249496,stable,Shuttle,2020-01-27T07:59:46,0.0.1
+,,1.5,6,GoogleAutoMLTables_benchmark,openml.org/t/146212,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,597249497,stable,Shuttle,2020-01-27T07:59:47,0.0.1
+,,1.5,7,GoogleAutoMLTables_benchmark,openml.org/t/146212,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,597249498,stable,Shuttle,2020-01-27T07:59:49,0.0.1
+,,1.5,8,GoogleAutoMLTables_benchmark,openml.org/t/146212,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,597249499,stable,Shuttle,2020-01-27T07:59:50,0.0.1
+,,1.5,9,GoogleAutoMLTables_benchmark,openml.org/t/146212,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,597249500,stable,Shuttle,2020-01-27T07:59:52,0.0.1
+0.94152,0.979435,3176.5,0,GoogleAutoMLTables_benchmark,openml.org/t/168912,,,local,-1.0,-1.0,,137.778,0.979435,912153736,stable,sylvine,2020-01-26T23:21:57,0.0.1
+,,0.3,1,GoogleAutoMLTables_benchmark,openml.org/t/168912,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,912153737,stable,sylvine,2020-01-26T23:21:58,0.0.1
+,,0.3,2,GoogleAutoMLTables_benchmark,openml.org/t/168912,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,912153738,stable,sylvine,2020-01-26T23:21:58,0.0.1
+,,0.3,3,GoogleAutoMLTables_benchmark,openml.org/t/168912,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,912153739,stable,sylvine,2020-01-26T23:21:58,0.0.1
+,,0.3,4,GoogleAutoMLTables_benchmark,openml.org/t/168912,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,912153740,stable,sylvine,2020-01-26T23:21:59,0.0.1
+,,0.3,5,GoogleAutoMLTables_benchmark,openml.org/t/168912,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,912153741,stable,sylvine,2020-01-26T23:21:59,0.0.1
+,,0.3,6,GoogleAutoMLTables_benchmark,openml.org/t/168912,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,912153742,stable,sylvine,2020-01-26T23:21:59,0.0.1
+,,0.4,7,GoogleAutoMLTables_benchmark,openml.org/t/168912,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,912153743,stable,sylvine,2020-01-26T23:22:00,0.0.1
+,,0.3,8,GoogleAutoMLTables_benchmark,openml.org/t/168912,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,912153744,stable,sylvine,2020-01-26T23:22:00,0.0.1
+,,0.3,9,GoogleAutoMLTables_benchmark,openml.org/t/168912,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,912153745,stable,sylvine,2020-01-26T23:22:00,0.0.1
+,,24.4,0,GoogleAutoMLTables_benchmark,openml.org/t/53,ValueError: GCP AutoML tables can only be trained on datasets with >= 1000 rows,,local,,,,,,513043032,stable,vehicle,2020-01-27T01:19:45,0.0.1
+,,0.0,1,GoogleAutoMLTables_benchmark,openml.org/t/53,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,513043033,stable,vehicle,2020-01-27T01:19:45,0.0.1
+,,0.0,2,GoogleAutoMLTables_benchmark,openml.org/t/53,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,513043034,stable,vehicle,2020-01-27T01:19:45,0.0.1
+,,0.0,3,GoogleAutoMLTables_benchmark,openml.org/t/53,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,513043035,stable,vehicle,2020-01-27T01:19:45,0.0.1
+,,0.0,4,GoogleAutoMLTables_benchmark,openml.org/t/53,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,513043036,stable,vehicle,2020-01-27T01:19:45,0.0.1
+,,0.0,5,GoogleAutoMLTables_benchmark,openml.org/t/53,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,513043037,stable,vehicle,2020-01-27T01:19:45,0.0.1
+,,0.0,6,GoogleAutoMLTables_benchmark,openml.org/t/53,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,513043038,stable,vehicle,2020-01-27T01:19:45,0.0.1
+,,0.0,7,GoogleAutoMLTables_benchmark,openml.org/t/53,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,513043039,stable,vehicle,2020-01-27T01:19:45,0.0.1
+,,0.0,8,GoogleAutoMLTables_benchmark,openml.org/t/53,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,513043040,stable,vehicle,2020-01-27T01:19:45,0.0.1
+,,0.0,9,GoogleAutoMLTables_benchmark,openml.org/t/53,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,513043041,stable,vehicle,2020-01-27T01:19:45,0.0.1
+0.698336,,5324.0,0,GoogleAutoMLTables_benchmark,openml.org/t/168331,,0.8391069999999999,local,-1.0,-1.0,,291.822,0.8391069999999999,1465929983,stable,Volkert,2020-01-27T09:21:51,0.0.1
+,,8.7,1,GoogleAutoMLTables_benchmark,openml.org/t/168331,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 1,,local,,,,,,1465929984,stable,Volkert,2020-01-27T09:22:00,0.0.1
+,,8.7,2,GoogleAutoMLTables_benchmark,openml.org/t/168331,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 2,,local,,,,,,1465929985,stable,Volkert,2020-01-27T09:22:08,0.0.1
+,,8.4,3,GoogleAutoMLTables_benchmark,openml.org/t/168331,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 3,,local,,,,,,1465929986,stable,Volkert,2020-01-27T09:22:17,0.0.1
+,,8.5,4,GoogleAutoMLTables_benchmark,openml.org/t/168331,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 4,,local,,,,,,1465929987,stable,Volkert,2020-01-27T09:22:25,0.0.1
+,,8.6,5,GoogleAutoMLTables_benchmark,openml.org/t/168331,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 5,,local,,,,,,1465929988,stable,Volkert,2020-01-27T09:22:34,0.0.1
+,,8.6,6,GoogleAutoMLTables_benchmark,openml.org/t/168331,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 6,,local,,,,,,1465929989,stable,Volkert,2020-01-27T09:22:43,0.0.1
+,,8.4,7,GoogleAutoMLTables_benchmark,openml.org/t/168331,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 7,,local,,,,,,1465929990,stable,Volkert,2020-01-27T09:22:51,0.0.1
+,,8.5,8,GoogleAutoMLTables_benchmark,openml.org/t/168331,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 8,,local,,,,,,1465929991,stable,Volkert,2020-01-27T09:23:00,0.0.1
+,,8.6,9,GoogleAutoMLTables_benchmark,openml.org/t/168331,AssertionError: config.fold must be 0 when running AutoML Tables! Value: 9,,local,,,,,,1465929992,stable,Volkert,2020-01-27T09:23:08,0.0.1
