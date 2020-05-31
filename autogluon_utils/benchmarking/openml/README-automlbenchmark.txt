@@ -1,5 +1,10 @@
-The OpenML AutoML Benchmark is run using the following repository which you should clone:
+The OpenML AutoML Benchmark is run using the following repository which you should clone and use the autogluon-test branch:
 https://github.com/Innixma/automlbenchmark
+
+Example:
+
+cd workspace
+git clone -b autogluon-test https://github.com/Innixma/automlbenchmark.git
 
 To run automlbenchmark, you must first create an AMI using EC2 instance on which you have already executed the bash script: benchmarking/baselines/install.sh
 which installs all the requisite packages.
